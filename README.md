@@ -1,1 +1,1 @@
-# Act.-5-Gesti-n
+Se creó un repositorio en GitHub para el proyecto ControlEscolarApp, el cual contiene la estructura mínima de carpetas requerida y archivos de código, documentación y configuración, permitiendo el control de versiones y seguimiento de cambios.
